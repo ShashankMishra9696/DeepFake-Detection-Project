@@ -1,0 +1,4 @@
+Input Image,Class,Face with Explainability,timestamp
+.gradio\flagged\Input Image\5e8dfe10134e3bc1cf96\Profile Photo.jpg,"{""label"": null, ""confidences"": null}",,2025-07-25 23:39:28.374962
+.gradio\flagged\Input Image\dfb699a65447ee8f9fff\IMG_20241205_023829114_HDR_PORTRAIT1.jpg,"{""label"": ""fake"", ""confidences"": [{""label"": ""fake"", ""confidence"": 0.9997974038124084}, {""label"": ""real"", ""confidence"": 0.00020259618759155273}]}",.gradio\flagged\Face with Explainability\2b035536c0bf8455827b\image.webp,2025-07-25 23:47:57.343088
+.gradio\flagged\Input Image\88402f049f1743dfc4e1\IMG_20241205_023829114_HDR_PORTRAIT1.jpg,"{""label"": ""fake"", ""confidences"": [{""label"": ""fake"", ""confidence"": 0.9997974038124084}, {""label"": ""real"", ""confidence"": 0.00020259618759155273}]}",.gradio\flagged\Face with Explainability\163266e098a7d6bf7375\image.webp,2025-07-25 23:49:36.968903
